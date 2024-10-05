@@ -8,10 +8,29 @@ header{
 body{
     background: rgb(246, 182, 110);
 }
+.image1{
+    position: relative;
+}
 #image1{
     width: 650px;
     height: 500px;
+    opacity: 50%;
 }
 .p1{
-    margin-top: auto;
+    position: absolute;
+    top: 150px;
+    padding-left: 10px;
+    width: 650px;
+    height: 500px;
+
+}
+.p1 p{
+    font-size: 32px;
+}
+.image2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-left: 820px;
+    top: 0.5px;
 }
