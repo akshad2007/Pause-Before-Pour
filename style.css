@@ -34,3 +34,9 @@ body{
     margin-left: 820px;
     top: 0.5px;
 }
+.header{
+    background-color: rgb(255, 144, 18) ;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 32px;
+}
